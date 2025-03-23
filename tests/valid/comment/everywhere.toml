@@ -20,6 +20,10 @@ more = [ # Comment
   #
           # Evil.
 # Evil.
+  42 ,# Evil?
+  42# Wait for it,
+  ,42 # Almost there
+  ,43, # Very evil.
 # ] Did I fool you?
 ] # Hopefully not.
 
